@@ -7,7 +7,7 @@ Some random thoughts related to programming
   - you **have to** know how to use a code formatter (`astyle`, `mh_style`, `black`/`blue`, `perltidy`) to consistently reformat your code before every commit
   - you **have to** enable warnings — `-Wall` or even `-pedantic` — to let the compiler do the hard work and tell you which parts it considers problematic, and fix every warning
   - if you don't know how to create automated testing to verify code features and detect regressions after each commit, you are outdated
-  - you **have got to** know how to use a memory checker (`valgrind`, `cuda-memcheck`, `compute-sanitizer`)! It is THE simplest way to expose serious issues right in front of your eyes without asking much of you — this is the least you can do: FIX EVERY MEMORY ERROR!
+  - you **got to** know how to use a memory checker (`valgrind`, `cuda-memcheck`, `compute-sanitizer`)! It is THE simplest way to expose serious issues right in front of your eyes without asking much of you — this is the least you can do: FIX EVERY MEMORY ERROR!
   - to make your code fast, **you'd better** know how to use a profiler (`valgrind --tool=cachegrind`, `Kcachegrind`, `ncu`, `nvprof`); in most cases, your slow runtime is likely due to a few lines of inefficient code, and you need to find them
 - The best way to learn a programming language is to learn it when you need it. You can't learn it by reading a book.
 - Understanding and respecting open-source licenses is the VERY first step for anyone interested in doing open-source software.
