@@ -12,8 +12,7 @@ Some random thoughts related to programming
 - The best way to learn a programming language is to learn it when you need it. You can't learn it by reading a book.
 - Understanding and respecting open-source licenses is the VERY first step for anyone interested in doing open-source software.
 - Do not despise FORTRAN — it was, and still is, the backbone of modern numerical computing, and MATLAB was built on it (MATLAB's matrix slicing with `:` came from FORTRAN).
-- Fonts are the #1 visual element in a modern graphics environment. They are more visible than window borders, shadows, and your wallpapers. Almost all graphics-savvy users start by designing their own fonts because they are tired of the ordinary ones.
-- Call me old school — the VCL (Visual Component Library) and CLX libraries behind the Delphi/C++Builder/Kylix IDEs are still the best UI library design I have ever seen. Even after 30 years, there is still nothing as intuitive, clean, and beautiful as that — LCL for Lazarus is close (because it follows VCL), but it does not support C++ the way CLX did.
+- Many people don't realize it - fonts are the #1 visual element in a modern graphics environment. They are more visible than window borders, shadows, and your wallpapers. Almost all graphics-savvy users start by designing their own fonts because they are tired of the ordinary ones.
 - Use open-source whenever you can! It is perpetual (and so is the license that lets you use it).
 - Do not always chase the newest and shiniest frameworks. Use something that has endured the test of time. They have lasted for decades, and they will continue to survive for decades.
 
